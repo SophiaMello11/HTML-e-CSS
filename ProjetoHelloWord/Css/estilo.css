@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(252, 231, 238);
+    box-sizing: border-box;
+    width: 80%;
+    margin: auto;
+
+}
+nav{
+    border: 2px solid #ffb1bf;    
+    background-color: rgb(252, 231, 238);
+    width: 50%;
+    margin: auto;
+}
+
+
+
+
+p{
+    color:rgb(250, 185, 215);
+}
+table {
+ border:1px solid rgb(166, 227, 255);
+}
+th, td {
+    border: 1px rgb(252, 188, 220);
+}
+img{
+    width: 10%;
+    border: 10px solid #ffb1bf;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    display: block;
+}
+a{
+    border: 10px solid #ffb1bf;
+    display: block;
+
+}
